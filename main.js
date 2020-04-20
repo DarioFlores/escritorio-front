@@ -12,7 +12,7 @@ function createWindow () {
   })
 
   // and load the index.html of the app.
-  mainWindow.loadFile('anc-pensar-front/dist/index.html')
+  mainWindow.loadFile('ng/dist/index.html')
 
 
   // Open the DevTools.
